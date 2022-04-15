@@ -1,0 +1,40 @@
+.header {
+  margin: 40px 10px;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap-reverse;
+}
+.header-left {
+  width: 700px;
+}
+.header-left-content {
+  margin: 20px 0px;
+}
+.header-left-content span {
+  font-family: Caveat, cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
+.header-left-content p {
+  font-size: 20px;
+}
+.header-right {
+  width: 400px;
+}
+.header-right-image {
+}
+.header-right-image img {
+  width: 100%;
+  object-fit: contain;
+}
+@media (max-width: 810px) {
+    .header-left {
+        width: 100%;
+      }
+      .header-right {
+        width: 250px;
+      }
+}

@@ -1,0 +1,4 @@
+.coffered-container{
+    display: flex;
+    overflow: auto;
+}

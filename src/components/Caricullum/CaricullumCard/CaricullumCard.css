@@ -1,0 +1,36 @@
+.cc {
+    margin: 20px;
+    border-radius: 7px;
+    width: 300px;
+    min-width: 300px;
+    padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.cc-heading {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.cc-icon {
+    border-radius: 7px;
+    background-color: rgb(175, 145, 235);
+    padding: 5px 10px;
+    margin-right: 10px;
+    color: white;
+    font-size: 30px;
+}
+.cc-icon span {
+}
+.cc-text {
+    font-family: Caveat, cursive;
+    font-weight: bold;
+    font-size: 28px;
+}
+.cc-text span {
+}
+.cc-para {
+}
+.cc-para p {
+}

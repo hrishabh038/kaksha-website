@@ -1,0 +1,15 @@
+.footer-navigation-heading{
+    font-family: Caveat, cursive;
+    letter-spacing: 1px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer-navigation-option{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.footer-navigation-option-link{
+    color: rgb(175, 145, 235);
+}

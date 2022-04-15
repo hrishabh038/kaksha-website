@@ -1,0 +1,19 @@
+.button {
+  font-family: Caveat, cursive;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 7px;
+  transition: all 0.2s ease 0s;
+  background: rgb(46, 50, 69);
+  cursor: pointer;
+}
+.button:hover {
+  background-color: rgb(175, 145, 235);
+  color: white;
+}
+.button span {
+  font-size: 22px;
+}

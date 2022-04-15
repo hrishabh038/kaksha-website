@@ -1,0 +1,12 @@
+.navButton{
+    margin: 0px 10px;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(22, 21, 55);
+}
+.navButton:hover{
+    color: rgb(175, 145, 235);
+}
+.navButton span{
+
+}
