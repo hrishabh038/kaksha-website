@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaksha-website/static/css/main.ddb939ea.css",
+    "main.js": "/kaksha-website/static/js/main.0f1f1993.js",
+    "index.html": "/kaksha-website/index.html",
+    "main.ddb939ea.css.map": "/kaksha-website/static/css/main.ddb939ea.css.map",
+    "main.0f1f1993.js.map": "/kaksha-website/static/js/main.0f1f1993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb939ea.css",
+    "static/js/main.0f1f1993.js"
+  ]
+}
